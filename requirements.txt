@@ -93,7 +93,6 @@ trio-websocket==0.12.2
 typing_extensions==4.13.2
 tzdata==2025.2
 UnityPy==1.22.2
-UnityPy_AOV @ git+https://github.com/hexaov91/UnityPy_AOV.git@bfcb7e21a1346c59074422d5cc29824699b8e6b7
 uritemplate==4.1.1
 urllib3==2.2.2
 websocket-client==1.8.0
